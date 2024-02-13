@@ -1,0 +1,409 @@
+{
+  "Question ID": {
+    "Question": [
+      {
+        "Question ID": "1",
+        "Question\r": "What is the Sun? a) A planet b) A star (Correct)\r"
+      },
+      {
+        "Question ID": "2",
+        "Question\r": "\"Which planet is often called the \"\"Red Planet\"\"? a) Earth b) Mars (Correct)\"\r"
+      },
+      {
+        "Question ID": "3",
+        "Question\r": "What is the largest planet in our solar system? a) Earth b) Jupiter (Correct)\r"
+      },
+      {
+        "Question ID": "4",
+        "Question\r": "What is Earth's only natural satellite? a) Mars b) The Moon (Correct)\r"
+      },
+      {
+        "Question ID": "5",
+        "Question\r": "Which planet is known for its prominent rings made of ice particles and dust? a) Saturn (Correct) b) Venus\r"
+      },
+      {
+        "Question ID": "6",
+        "Question\r": "Which planet is the hottest in our solar system? a) Earth b) Venus (Correct)\r"
+      },
+      {
+        "Question ID": "7",
+        "Question\r": "What is the smallest planet in our solar system? a) Mars b) Mercury (Correct)\r"
+      },
+      {
+        "Question ID": "8",
+        "Question\r": "What is the eighth planet from the Sun? a) Uranus (Correct) b) Neptune\r"
+      },
+      {
+        "Question ID": "9",
+        "Question\r": "What is a highly magnetized rotating neutron star that emits beams of electromagnetic radiation? a) Pulsar (Correct) b) Supernova\r"
+      },
+      {
+        "Question ID": "10",
+        "Question\r": "What is the distance light travels in one year? a) Parsec b) Light-year (Correct)\r"
+      },
+      {
+        "Question ID": "11",
+        "Question\r": "What is the boundary between Earth's atmosphere and outer space? a) Armstrong line b) K rm n line (Correct)\r"
+      },
+      {
+        "Question ID": "12",
+        "Question\r": "What is the closest spiral galaxy to the Milky Way? a) Andromeda Galaxy (Correct) b) Triangulum Galaxy\r"
+      },
+      {
+        "Question ID": "13",
+        "Question\r": "What is the region of intense star formation located in the Milky Way? a) Orion Nebula (Correct) b) Eagle Nebula\r"
+      },
+      {
+        "Question ID": "14",
+        "Question\r": "What is a powerful explosion that occurs at the end of a massive star's life cycle? a) Black hole b) Supernova (Correct)\r"
+      },
+      {
+        "Question ID": "15",
+        "Question\r": "What is the deepest known point in Earth's oceans? a) Challenger Deep (Correct) b) Puerto Rico Trench\r"
+      },
+      {
+        "Question ID": "16",
+        "Question\r": "What is the galaxy that contains our solar system? a) Andromeda Galaxy b) Milky Way (Correct)\r"
+      },
+      {
+        "Question ID": "17",
+        "Question\r": "Which telescope has provided stunning images and valuable data about the universe? a) James Webb Space Telescope b) Hubble Space Telescope (Correct)\r"
+      },
+      {
+        "Question ID": "18",
+        "Question\r": "\"What is the boundary between Earth's atmosphere and outer space"
+      },
+      {
+        "Question ID": "19",
+        "Question\r": "\"Which spacecraft flew by Pluto in 2015"
+      },
+      {
+        "Question ID": "20",
+        "Question\r": "Which planet is the eighth and farthest from the Sun in our solar system? a) Uranus b) Neptune (Correct)\r"
+      },
+      {
+        "Question ID": "21",
+        "Question\r": "\"Which nebula is known for its \"\"Pillars of Creation\"\"? a) Crab Nebula b) Eagle Nebula (Correct)\"\r"
+      },
+      {
+        "Question ID": "22",
+        "Question\r": "What is the most powerful space telescope ever built? a) Hubble Space Telescope b) James Webb Space Telescope (Correct)\r"
+      },
+      {
+        "Question ID": "23",
+        "Question\r": "What is the region of the solar system beyond Neptune's orbit? a) Oort Cloud (Correct) b) Kuiper Belt\r"
+      },
+      {
+        "Question ID": "24",
+        "Question\r": "What is the remnant of a supernova explosion observed by Chinese astronomers in 1054 AD? a) Orion Nebula b) Crab Nebula (Correct)\r"
+      },
+      {
+        "Question ID": "25",
+        "Question\r": "\"What is the boundary between Earth's atmosphere and outer space"
+      },
+      {
+        "Question ID": "26",
+        "Question\r": "What is the only planet known to support life? a) Venus b) Earth (Correct)\r"
+      },
+      {
+        "Question ID": "27",
+        "Question\r": "What is a highly magnetized rotating neutron star that emits beams of electromagnetic radiation? a) Pulsar (Correct) b) Black hole\r"
+      },
+      {
+        "Question ID": "28",
+        "Question\r": "What is the deepest known point in Earth's oceans? a) Challenger Deep (Correct) b) Puerto Rico Trench\r"
+      },
+      {
+        "Question ID": "29",
+        "Question\r": "What is a powerful explosion that occurs at the end of a massive star's life cycle? a) Black hole b) Supernova (Correct)\r"
+      },
+      {
+        "Question ID": "30",
+        "Question\r": "What is the distance light travels in one year? a) Parsec b) Light-year (Correct)\r"
+      },
+      {
+        "Question ID": "31",
+        "Question\r": "What is the Sun? a) A planet b) A star (Correct)\r"
+      },
+      {
+        "Question ID": "32",
+        "Question\r": "\"Which planet is often called the \"\"Red Planet\"\"? a) Earth b) Mars (Correct)\"\r"
+      },
+      {
+        "Question ID": "33",
+        "Question\r": "What is the largest planet in our solar system? a) Earth b) Jupiter (Correct)\r"
+      },
+      {
+        "Question ID": "34",
+        "Question\r": "What is Earth's only natural satellite? a) Mars b) The Moon (Correct)\r"
+      },
+      {
+        "Question ID": "35",
+        "Question\r": "Which planet is known for its prominent rings made of ice particles and dust? a) Saturn (Correct) b) Venus\r"
+      },
+      {
+        "Question ID": "36",
+        "Question\r": "Which planet is the hottest in our solar system? a) Earth b) Venus (Correct)\r"
+      },
+      {
+        "Question ID": "37",
+        "Question\r": "What is the smallest planet in our solar system? a) Mars b) Mercury (Correct)\r"
+      },
+      {
+        "Question ID": "38",
+        "Question\r": "What is the eighth planet from the Sun? a) Uranus (Correct) b) Neptune\r"
+      },
+      {
+        "Question ID": "39",
+        "Question\r": "What is a highly magnetized rotating neutron star that emits beams of electromagnetic radiation? a) Pulsar (Correct) b) Supernova\r"
+      },
+      {
+        "Question ID": "40",
+        "Question\r": "What is the distance light travels in one year? a) Parsec b) Light-year (Correct)\r"
+      },
+      {
+        "Question ID": "41",
+        "Question\r": "What is the boundary between Earth's atmosphere and outer space? a) Armstrong line b) K rm n line (Correct)\r"
+      },
+      {
+        "Question ID": "42",
+        "Question\r": "What is the closest spiral galaxy to the Milky Way? a) Andromeda Galaxy (Correct) b) Triangulum Galaxy\r"
+      },
+      {
+        "Question ID": "43",
+        "Question\r": "What is the region of intense star formation located in the Milky Way? a) Orion Nebula (Correct) b) Eagle Nebula\r"
+      },
+      {
+        "Question ID": "44",
+        "Question\r": "What is a powerful explosion that occurs at the end of a massive star's life cycle? a) Black hole b) Supernova (Correct)\r"
+      },
+      {
+        "Question ID": "45",
+        "Question\r": "What is the deepest known point in Earth's oceans? a) Challenger Deep (Correct) b) Puerto Rico Trench\r"
+      },
+      {
+        "Question ID": "46",
+        "Question\r": "What is the galaxy that contains our solar system? a) Andromeda Galaxy b) Milky Way (Correct)\r"
+      },
+      {
+        "Question ID": "47",
+        "Question\r": "Which telescope has provided stunning images and valuable data about the universe? a) James Webb Space Telescope b) Hubble Space Telescope (Correct)\r"
+      },
+      {
+        "Question ID": "48",
+        "Question\r": "\"What is the boundary between Earth's atmosphere and outer space"
+      },
+      {
+        "Question ID": "49",
+        "Question\r": "\"Which spacecraft flew by Pluto in 2015"
+      },
+      {
+        "Question ID": "50",
+        "Question\r": "Which planet is the eighth and farthest from the Sun in our solar system? a) Uranus b) Neptune (Correct)\r"
+      },
+      {
+        "Question ID": "51",
+        "Question\r": "\"Which nebula is known for its \"\"Pillars of Creation\"\"? a) Crab Nebula b) Eagle Nebula (Correct)\"\r"
+      },
+      {
+        "Question ID": "52",
+        "Question\r": "What is the most powerful space telescope ever built? a) Hubble Space Telescope b) James Webb Space Telescope (Correct)\r"
+      },
+      {
+        "Question ID": "53",
+        "Question\r": "What is the region of the solar system beyond Neptune's orbit? a) Oort Cloud (Correct) b) Kuiper Belt\r"
+      },
+      {
+        "Question ID": "54",
+        "Question\r": "What is the remnant of a supernova explosion observed by Chinese astronomers in 1054 AD? a) Orion Nebula b) Crab Nebula (Correct)\r"
+      },
+      {
+        "Question ID": "55",
+        "Question\r": "\"What is the boundary between Earth's atmosphere and outer space"
+      },
+      {
+        "Question ID": "56",
+        "Question\r": "What is the only planet known to support life? a) Venus b) Earth (Correct)\r"
+      },
+      {
+        "Question ID": "57",
+        "Question\r": "What is a highly magnetized rotating neutron star that emits beams of electromagnetic radiation? a) Pulsar (Correct) b) Black hole\r"
+      },
+      {
+        "Question ID": "58",
+        "Question\r": "What is the deepest known point in Earth's oceans? a) Challenger Deep (Correct) b) Puerto Rico Trench\r"
+      },
+      {
+        "Question ID": "59",
+        "Question\r": "What is a powerful explosion that occurs at the end of a massive star's life cycle? a) Black hole b) Supernova (Correct)\r"
+      },
+      {
+        "Question ID": "60",
+        "Question\r": "What is the distance light travels in one year? a) Parsec b) Light-year (Correct)\r"
+      },
+      {
+        "Question ID": "61",
+        "Question\r": "What is the Sun? a) A planet b) A star (Correct)\r"
+      },
+      {
+        "Question ID": "62",
+        "Question\r": "\"Which planet is often called the \"\"Red Planet\"\"? a) Earth b) Mars (Correct)\"\r"
+      },
+      {
+        "Question ID": "63",
+        "Question\r": "What is the largest planet in our solar system? a) Earth b) Jupiter (Correct)\r"
+      },
+      {
+        "Question ID": "64",
+        "Question\r": "What is Earth's only natural satellite? a) Mars b) The Moon (Correct)\r"
+      },
+      {
+        "Question ID": "65",
+        "Question\r": "Which planet is known for its prominent rings made of ice particles and dust? a) Saturn (Correct) b) Venus\r"
+      },
+      {
+        "Question ID": "66",
+        "Question\r": "Which planet is the hottest in our solar system? a) Earth b) Venus (Correct)\r"
+      },
+      {
+        "Question ID": "67",
+        "Question\r": "What is the smallest planet in our solar system? a) Mars b) Mercury (Correct)\r"
+      },
+      {
+        "Question ID": "68",
+        "Question\r": "What is the eighth planet from the Sun? a) Uranus (Correct) b) Neptune\r"
+      },
+      {
+        "Question ID": "69",
+        "Question\r": "What is a highly magnetized rotating neutron star that emits beams of electromagnetic radiation? a) Pulsar (Correct) b) Supernova\r"
+      },
+      {
+        "Question ID": "70",
+        "Question\r": "What is the distance light travels in one year? a) Parsec b) Light-year (Correct)\r"
+      },
+      {
+        "Question ID": "71",
+        "Question\r": "What is the boundary between Earth's atmosphere and outer space? a) Armstrong line b) K rm n line (Correct)\r"
+      },
+      {
+        "Question ID": "72",
+        "Question\r": "What is the closest spiral galaxy to the Milky Way? a) Andromeda Galaxy (Correct) b) Triangulum Galaxy\r"
+      },
+      {
+        "Question ID": "73",
+        "Question\r": "What is the region of intense star formation located in the Milky Way? a) Orion Nebula (Correct) b) Eagle Nebula\r"
+      },
+      {
+        "Question ID": "74",
+        "Question\r": "What is a powerful explosion that occurs at the end of a massive star's life cycle? a) Black hole b) Supernova (Correct)\r"
+      },
+      {
+        "Question ID": "75",
+        "Question\r": "What is the deepest known point in Earth's oceans? a) Challenger Deep (Correct) b) Puerto Rico Trench\r"
+      },
+      {
+        "Question ID": "76",
+        "Question\r": "What is the galaxy that contains our solar system? a) Andromeda Galaxy b) Milky Way (Correct)\r"
+      },
+      {
+        "Question ID": "77",
+        "Question\r": "Which telescope has provided stunning images and valuable data about the universe? a) James Webb Space Telescope b) Hubble Space Telescope (Correct)\r"
+      },
+      {
+        "Question ID": "78",
+        "Question\r": "\"What is the boundary between Earth's atmosphere and outer space"
+      },
+      {
+        "Question ID": "79",
+        "Question\r": "\"Which spacecraft flew by Pluto in 2015"
+      },
+      {
+        "Question ID": "80",
+        "Question\r": "Which planet is the eighth and farthest from the Sun in our solar system? a) Uranus b) Neptune (Correct)\r"
+      },
+      {
+        "Question ID": "81",
+        "Question\r": "\"Which nebula is known for its \"\"Pillars of Creation\"\"? a) Crab Nebula b) Eagle Nebula (Correct)\"\r"
+      },
+      {
+        "Question ID": "82",
+        "Question\r": "What is the most powerful space telescope ever built? a) Hubble Space Telescope b) James Webb Space Telescope (Correct)\r"
+      },
+      {
+        "Question ID": "83",
+        "Question\r": "What is the region of the solar system beyond Neptune's orbit? a) Oort Cloud (Correct) b) Kuiper Belt\r"
+      },
+      {
+        "Question ID": "84",
+        "Question\r": "What is the remnant of a supernova explosion observed by Chinese astronomers in 1054 AD? a) Orion Nebula b) Crab Nebula (Correct)\r"
+      },
+      {
+        "Question ID": "85",
+        "Question\r": "\"What is the boundary between Earth's atmosphere and outer space"
+      },
+      {
+        "Question ID": "86",
+        "Question\r": "What is the only planet known to support life? a) Venus b) Earth (Correct)\r"
+      },
+      {
+        "Question ID": "87",
+        "Question\r": "What is a highly magnetized rotating neutron star that emits beams of electromagnetic radiation? a) Pulsar (Correct) b) Black hole\r"
+      },
+      {
+        "Question ID": "88",
+        "Question\r": "What is the deepest known point in Earth's oceans? a) Challenger Deep (Correct) b) Puerto Rico Trench\r"
+      },
+      {
+        "Question ID": "89",
+        "Question\r": "What is a powerful explosion that occurs at the end of a massive star's life cycle? a) Black hole b) Supernova (Correct)\r"
+      },
+      {
+        "Question ID": "90",
+        "Question\r": "What is the distance light travels in one year? a) Parsec b) Light-year (Correct)\r"
+      },
+      {
+        "Question ID": "91",
+        "Question\r": "What is the Sun? a) A planet b) A star (Correct)\r"
+      },
+      {
+        "Question ID": "92",
+        "Question\r": "\"Which planet is often called the \"\"Red Planet\"\"? a) Earth b) Mars (Correct)\"\r"
+      },
+      {
+        "Question ID": "93",
+        "Question\r": "What is the largest planet in our solar system? a) Earth b) Jupiter (Correct)\r"
+      },
+      {
+        "Question ID": "94",
+        "Question\r": "What is Earth's only natural satellite? a) Mars b) The Moon (Correct)\r"
+      },
+      {
+        "Question ID": "95",
+        "Question\r": "Which planet is known for its prominent rings made of ice particles and dust? a) Saturn (Correct) b) Venus\r"
+      },
+      {
+        "Question ID": "96",
+        "Question\r": "Which planet is the hottest in our solar system? a) Earth b) Venus (Correct)\r"
+      },
+      {
+        "Question ID": "97",
+        "Question\r": "What is the smallest planet in our solar system? a) Mars b) Mercury (Correct)\r"
+      },
+      {
+        "Question ID": "98",
+        "Question\r": "What is the eighth planet from the Sun? a) Uranus (Correct) b) Neptune\r"
+      },
+      {
+        "Question ID": "99",
+        "Question\r": "What is a highly magnetized rotating neutron star that emits beams of electromagnetic radiation? a) Pulsar (Correct) b) Supernova\r"
+      },
+      {
+        "Question ID": "100",
+        "Question\r": "What is the distance light travels in one year? a) Parsec b) Light-year (Correct)\r"
+      },
+      {
+        "Question ID": ""
+      }
+    ]
+  }
+}
